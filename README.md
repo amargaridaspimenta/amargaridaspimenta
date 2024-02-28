@@ -1,7 +1,7 @@
 # Olá, sou a Margarida! 👋
 
 ## Sobre mim
-📚 Neste momento, encontro-me a concluir a Licenciatura em Engenharia Informática na Universidade do Minho.
+📚 Atualmente, encontro-me a concluir a Licenciatura em Engenharia Informática na Universidade do Minho.
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
