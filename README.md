@@ -16,6 +16,6 @@ A concluir a Licenciatura em Engenharia Informática na Universidade do Minho.
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=amargaridaspimenta&show_icons=true&theme=radical)
 
-## Top Linguagens
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&layout=compact)
+## GitHub Stats Card
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&langs_count=10&layout=compact)
 
