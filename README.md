@@ -14,10 +14,8 @@ A concluir a Licenciatura em Engenharia Informática na Universidade do Minho.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=amargaridaspimenta&show_icons=true&theme=radical)
 
 ## Top Linguagens
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuário&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&layout=compact)
 
-## Entre em Contato
-- LinkedIn:([URL](https://www.linkedin.com/in/margarida-sousa-pimenta-021911273/)
