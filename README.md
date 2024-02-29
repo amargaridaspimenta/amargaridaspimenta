@@ -25,6 +25,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
-### My Top Languages
+### My Top 5 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&layout=compact&include_all_commits=true)](https://github.com/amargaridaspimenta)
 
