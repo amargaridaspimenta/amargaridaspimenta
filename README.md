@@ -26,11 +26,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
-### *My Top 5 Languages*
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&layout=compact&include_all_commits=true)](https://github.com/amargaridaspimenta)
+### *My Top Languages*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&layout=compact&include_all_commits=true&theme=github_dark)](https://github.com/amargaridaspimenta)
 
 ### *My University Projects*
-- [*Block Dude Game*](https://github.com/amargaridaspimenta/LI1)
+- [*Pillow Dude - A New Version of Block Dude Game*](https://github.com/amargaridaspimenta/LI1)
 - [Sistema de Entrega de Encomendas](https://github.com/amargaridaspimenta/IA)
 - [*Website* de Leilões *Online*](https://github.com/amargaridaspimenta/LI42024)
 - [Cadeia de Oficinas de Manuntenção Automóvel](https://github.com/amargaridaspimenta/DSS)
