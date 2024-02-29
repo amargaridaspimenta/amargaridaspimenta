@@ -19,13 +19,14 @@
 <img src="https://skillicons.dev/icons?i=html,python,javascript,c,css,java,mysql,haskell,cs,cpp,matlab"/>
 <p align="center"> <img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,github,figma,cmake,gitlab,windows,powershell"/><br>
 
- <h3 align=center>📌 My Top Languages 📌</h3>
+ <h3 align=center>📌 My Top Languages and Stats 📌</h3>
  <p align=center>
     <a href="https://github.com/amargaridaspimenta">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&layout=compact&include_all_commits=true&theme=github_dark" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&layout=compact&include_all_commits=true&theme=github_dark" alt="Top Langs"> <br>     
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amargaridaspimenta&include_all_commits=true&theme=github_dark&hide_border=false">
     </a><br>
 
-<h3 align=center>📚 My University Projects 📚</h3>
+<h3 align=center>📚 My Favorite University Projects 📚</h3>
 <p align="center">
     <a href="https://github.com/amargaridaspimenta/LI1">Pillow Dude - A New Version of Block Dude Game</a><br>
     <a href="https://github.com/amargaridaspimenta/IA">Order Delivery System</a><br>
