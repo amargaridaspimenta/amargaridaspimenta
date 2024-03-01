@@ -8,10 +8,10 @@
 <p align=center>
 🎯 Here you can find my latest projects and contributions.
 
-<h3 align="center">📫 Connect with me 📫</h3>
+<br><h3 align="center">📫 Connect with me 📫</h3>
 <p align=center>
 <a href="https://linkedin.com/in/margarida-sousa-pimenta-021911273">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"><br>
 </a><br>
 
 <h3 align="center">📖 Languages & Tools 📖</h3>
@@ -19,11 +19,10 @@
 <img src="https://skillicons.dev/icons?i=html,python,javascript,c,css,java,mysql,haskell,cs,cpp,matlab"/>
 <p align="center"> <img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,github,figma,cmake,gitlab,windows,powershell"/><br>
 
- <h3 align=center>📌 My Top Languages and Stats 📌</h3>
+ <br><h3 align=center>📌 My Top Languages and Stats 📌</h3>
  <p align=center>
     <a href="https://github.com/amargaridaspimenta">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&layout=compact&include_all_commits=true&theme=github_dark" alt="Top Langs"> <br>     
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amargaridaspimenta&include_all_commits=true&theme=github_dark&hide_border=false">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amargaridaspimenta&layout=compact&include_all_commits=true&theme=github_dark" alt="Top Langs"><br>    
     </a><br>
 
 <h3 align=center>📚 My Favorite University Projects 📚</h3>
