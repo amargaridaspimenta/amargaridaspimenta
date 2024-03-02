@@ -34,3 +34,8 @@
     <a href="https://github.com/amargaridaspimenta/PL2024">Language Processing</a>
 </p>
 
+<h3 align=center>📚 My Current Projects 📚</h3>
+<p align="center">
+    <a href="https://github.com/amargaridaspimenta/TicTacToe">TicTacToe Game (in progress)</a><br>
+</p>
+
