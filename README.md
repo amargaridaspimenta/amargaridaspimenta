@@ -32,7 +32,7 @@
     <a href="https://github.com/amargaridaspimenta/LI42024">Online Auction Website</a><br>
     <a href="https://github.com/amargaridaspimenta/DSS">Chain of Automotive Maintenance Workshops</a><br>
     <a href="https://github.com/amargaridaspimenta/PL2024">Language Processing</a>
-</p>
+</p><br>
 
 <h3 align=center>📚 My Current Projects 📚</h3>
 <p align="center">
